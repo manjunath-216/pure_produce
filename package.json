@@ -9,7 +9,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "Masood",
+  "author": "Manjunath",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
